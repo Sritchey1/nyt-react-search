@@ -20,7 +20,7 @@ const Footer = (props) => {
                         <CardTitle className="footer-heading">
                             New York Times React Search
                         </CardTitle>
-                        <CardText><b>Copyright &copy; 2018</b></CardText>
+                        <CardText><b>Copyright &copy; 2019</b></CardText>
                         <a href="https://github.com/Sritchey1" target="_blank" rel="noopener noreferrer" className="footer-button">
                             <Button size="lg">GitHub Repo</Button>
                         </a>
