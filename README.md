@@ -2,3 +2,5 @@
 
 A React application that uses the New York Times Article Search API to retrieve news articles by topic and year.
 
+Heroku: https://nyt-react-searchhw.herokuapp.com/
+
